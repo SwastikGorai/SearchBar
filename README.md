@@ -7,6 +7,13 @@ This project is a simple searchbar component created using React and JSONPlaceho
 * Fetches data from JSONPlaceholder API
 * Filters data based on user input
 * Displays result in a scrollable column and as an alert when clicked
+
+
+## Demo 
+![image1](https://github.com/SwastikGorai/SearchBar/blob/main/images/image%20(1).png)
+![image2](https://github.com/SwastikGorai/SearchBar/blob/main/images/image%20(2).png)
+![image3](https://github.com/SwastikGorai/SearchBar/blob/main/images/image%20(3).png)
+
 ## Installation
 To install this project, you need to have Node.js and npm installed on your machine. Then follow these steps:
 
